@@ -8,6 +8,8 @@
 
 mzw茕茕，求赞助喵（悲
 
+[![Patreon](https://img.shields.io/badge/Patreon-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://patreon.com/mzwing)
+
 [![爱发电](https://img.shields.io/badge/爱发电-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://afdian.net/@mzwing)
 
 ## 还能在哪里找到我？
