@@ -18,6 +18,12 @@ More above, please check my [nix-config](https://github.com/mzwing/nix-config).
 
 <!--START_SECTION:waka-->
 
+```txt
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ## 🚀 Contribution
